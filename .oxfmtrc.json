@@ -25,7 +25,7 @@
             "sibling",
             "index"
         ],
-        "newlinesBetween": true
+        "newlinesBetween": false
     },
     "$schema": "./node_modules/oxfmt/configuration_schema.json",
     "ignorePatterns": ["resources/js/components/ui/*", "resources/views/mail/*"]

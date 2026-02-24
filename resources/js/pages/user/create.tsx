@@ -1,6 +1,5 @@
 import { Form, Head } from '@inertiajs/react';
 import { LoaderCircle } from 'lucide-react';
-
 import UserController from '@/actions/App/Http/Controllers/UserController';
 import InputError from '@/components/input-error';
 import TextLink from '@/components/text-link';

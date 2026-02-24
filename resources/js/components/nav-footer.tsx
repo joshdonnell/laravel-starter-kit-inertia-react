@@ -1,5 +1,4 @@
 import { type ComponentPropsWithoutRef } from 'react';
-
 import { Icon } from '@/components/icon';
 import {
     SidebarGroup,

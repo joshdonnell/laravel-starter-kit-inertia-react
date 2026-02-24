@@ -1,6 +1,5 @@
 import { Form, Head } from '@inertiajs/react';
 import { LoaderCircle } from 'lucide-react';
-
 // Components
 import UserEmailVerificationNotificationController from '@/actions/App/Http/Controllers/UserEmailVerificationNotificationController';
 import TextLink from '@/components/text-link';

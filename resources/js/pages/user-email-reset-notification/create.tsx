@@ -1,6 +1,5 @@
 import { Form, Head } from '@inertiajs/react';
 import { LoaderCircle } from 'lucide-react';
-
 // Components
 import UserEmailResetNotificationController from '@/actions/App/Http/Controllers/UserEmailResetNotificationController';
 import InputError from '@/components/input-error';

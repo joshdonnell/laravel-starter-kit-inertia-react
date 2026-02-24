@@ -1,5 +1,4 @@
 import { Link, usePage } from '@inertiajs/react';
-
 import {
     SidebarGroup,
     SidebarGroupLabel,
