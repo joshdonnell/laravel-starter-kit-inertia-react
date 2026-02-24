@@ -12,11 +12,11 @@
             }
         }
     ],
-    "experimentalTailwindcss": {
+    "sortTailwindcss": {
         "functions": ["clsx", "cn"],
         "stylesheet": "resources/css/app.css"
     },
-    "experimentalSortImports": {
+    "sortImports": {
         "groups": [
             "builtin",
             "external",
