@@ -28,5 +28,11 @@
         "newlinesBetween": false
     },
     "$schema": "./node_modules/oxfmt/configuration_schema.json",
-    "ignorePatterns": ["resources/js/components/ui/*", "resources/views/mail/*"]
+    "ignorePatterns": [
+        "resources/js/components/ui/*",
+        "resources/views/mail/*",
+        "resources/js/actions/*",
+        "resources/js/routes/*",
+        "resources/js/wayfinder/*"
+    ]
 }
